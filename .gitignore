@@ -1,0 +1,12 @@
+# Modèles et poids lourds
+*.safetensors
+*.bin
+*.zip
+best_darijabert_model/
+darijabert_checkpoints/
+results_darija_bert/
+
+# Environnement virtuel et cache
+__pycache__/
+.venv/
+.ipynb_checkpoints/
